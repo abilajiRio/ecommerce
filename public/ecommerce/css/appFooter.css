@@ -1,0 +1,66 @@
+footer {
+    background-color: rgb(3, 20, 51);
+    color: #fff;
+    width: 100vw;
+}
+
+.sosmed {
+    padding: 0;
+}
+
+h4 {
+    padding: 10px 0px;
+    text-transform: uppercase;
+}
+
+.sosmed li {
+    margin: 2px 12px 0px 0px;
+    display: inline-block;
+    background-color: #fff;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    padding: 0cm;
+}
+
+.sosmed li a i {
+    padding-top: 4px;
+    color: rgb(32, 32, 32);
+    transition: 0.3s;
+    font-size: 25px;
+}
+
+.sosmed li a i:hover {
+    color: rgb(30, 118, 226);
+    text-transform: none;
+}
+
+.footer .link ul {
+    list-style-type: none;
+    padding-left: initial;
+}
+
+.footer .link ul a {
+    color: #fff;
+    transition: color 0.2s;
+    text-transform: capitalize;
+}
+
+.footer .link ul a:hover {
+    text-decoration: none;
+    color: rgb(30, 118, 226);
+}
+
+.footer .location i {
+    font-size: 18px;
+    text-transform: lowercase;
+}
+
+.footer .copyright p {
+    font-size: 1.3rem;
+    text-shadow: 1px 1px black;
+    border-top: 1px solid rgb(255, 255, 255, 0.8);
+    border-bottom: 1px solid rgb(255, 255, 255, 0.8);
+}
